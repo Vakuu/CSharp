@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>01</name>
+    </assembly>
+    <members>
+        <member name="T:StringExtensions">
+            <summary>
+            Utility classe which provides static string derivates methods.
+            </summary>
+        </member>
+        <member name="M:StringExtensions.ToMd5Hash(System.String)">
+            <summary>
+            I don't know what it does, but probably it transoforms a given string in md5Hash inserting "x2" after each simbol of the md5hashed
+            </summary>
+            <param name="input">The string which will be transformed in md5Hash</param>
+            <returns></returns>
+        </member>
+        <member name="M:StringExtensions.ToBoolean(System.String)">
+            <summary>
+            Interpretates if a given string is in some fixed array with values
+            </summary>
+            <param name="input">The string which will be interpretated</param>
+            <returns></returns>
+        </member>
+        <member name="M:StringExtensions.ToShort(System.String)">
+            <summary>
+            Interpretates if a given string is a short type number and returns the result of the interpretation.
+            </summary>
+            <param name="input">The string which will be interpretated</param>
+            <returns></returns>
+        </member>
+        <member name="M:StringExtensions.ToInteger(System.String)">
+            <summary>
+            Interpretates if a given string is an integer type number and returns the result of the interpretation.
+            </summary>
+            <param name="input">The string which will be interpretated</param>
+            <returns></returns>
+        </member>
+        <member name="M:StringExtensions.ToLong(System.String)">
+            <summary>
+            Interpretates if a given string is a long type number and returns the result of the interpretation.
+            </summary>
+            <param name="input">The string which will be interpretated</param>
+            <returns></returns>
+        </member>
+        <member name="M:StringExtensions.ToDateTime(System.String)">
+            <summary>
+            Interpretates if a given string is a DateTime type value and returns the result of the interpretation.
+            </summary>
+            <param name="input">The string which will be interpretated</param>
+            <returns></returns>
+        </member>
+        <member name="M:StringExtensions.CapitalizeFirstLetter(System.String)">
+            <summary>
+            Returns the given string with CapitalizedLetter
+            </summary>
+            <param name="input">The string which first letter will be Capitalized</param>
+            <returns></returns>
+        </member>
+        <member name="M:StringExtensions.GetStringBetween(System.String,System.String,System.String,System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="input">The string of which will be cut a part</param>
+            <param name="startString">The first string found in the given string after the "startFrom" parameter position from which the result string to starts</param>
+            <param name="endString">the first string found in the given string after the "startFrom" parameter position to which the result string to ends</param>
+            <param name="startFrom">from which position of the given string to start searching for the substring determined by the first occurances of the "startString" and "endString" parameters</param>
+            <returns></returns>
+        </member>
+        <member name="M:StringExtensions.ConvertCyrillicToLatinLetters(System.String)">
+            <summary>
+            The name of the method is too good :)
+            </summary>
+            <param name="input">The string that will be converted</param>
+            <returns></returns>
+        </member>
+        <member name="M:StringExtensions.ConvertLatinToCyrillicKeyboard(System.String)">
+            <summary>
+            The name of the method is too good  probably change in it keyboard with letters :)
+            </summary>
+            <param name="input">The string that will be converted</param>
+            <returns></returns>
+        </member>
+        <member name="M:StringExtensions.ToValidUsername(System.String)">
+            <summary>
+            The name of the method is too good :)
+            </summary>
+            <param name="input">the string which will be transformed in valid form and returned</param>
+            <returns></returns>
+        </member>
+        <member name="M:StringExtensions.ToValidLatinFileName(System.String)">
+            <summary>
+            The name of the method is too good :)
+            </summary>
+            <param name="input"></param>
+            <returns></returns>
+        </member>
+        <member name="M:StringExtensions.GetFirstCharacters(System.String,System.Int32)">
+            <summary>
+            Returns the begining part of a given string
+            </summary>
+            <param name="input">the string from which to be returned only the first part with length the "charsCount" parameter</param>
+            <param name="charsCount">how many letters from the begining of the given string to be returned</param>
+            <returns></returns>
+        </member>
+        <member name="M:StringExtensions.GetFileExtension(System.String)">
+            <summary>
+            The name of the method is too good :)
+            </summary>
+            <param name="fileName">given string which must have a "." and extension of a file name</param>
+            <returns></returns>
+        </member>
+        <member name="M:StringExtensions.ToContentType(System.String)">
+            <summary>
+            Checks if the given string is from a specific file extension and if it is it returns the content type, if not it returns "application/octet-stream"
+            </summary>
+            <param name="fileExtension">the string that will be checked if it is extension from known type</param>
+            <returns></returns>
+        </member>
+        <member name="M:StringExtensions.ToByteArray(System.String)">
+            <summary>
+            Transforms a string into bytes array
+            </summary>
+            <param name="input">the string that will be transformed into bytes array</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
