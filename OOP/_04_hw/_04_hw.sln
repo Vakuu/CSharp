@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_01_Shapes", "_01_Shapes\_01_Shapes.csproj", "{47A2CAC4-713C-42EA-AF59-B72D514E0FD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_02_BankOfKurtovoKonare", "_02_BankOfKurtovoKonare\_02_BankOfKurtovoKonare.csproj", "{69FE56D6-1DBE-4495-846D-B36F1805F979}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheSlum", "_03_TheSlum-Skeleton\TheSlum.csproj", "{7C6F7F25-2FDB-401F-B1A9-D8CE3BB7308D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47A2CAC4-713C-42EA-AF59-B72D514E0FD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47A2CAC4-713C-42EA-AF59-B72D514E0FD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47A2CAC4-713C-42EA-AF59-B72D514E0FD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47A2CAC4-713C-42EA-AF59-B72D514E0FD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69FE56D6-1DBE-4495-846D-B36F1805F979}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69FE56D6-1DBE-4495-846D-B36F1805F979}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69FE56D6-1DBE-4495-846D-B36F1805F979}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69FE56D6-1DBE-4495-846D-B36F1805F979}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C6F7F25-2FDB-401F-B1A9-D8CE3BB7308D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C6F7F25-2FDB-401F-B1A9-D8CE3BB7308D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C6F7F25-2FDB-401F-B1A9-D8CE3BB7308D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C6F7F25-2FDB-401F-B1A9-D8CE3BB7308D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

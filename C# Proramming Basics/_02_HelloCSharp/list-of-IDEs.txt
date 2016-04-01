@@ -1,0 +1,15 @@
+1. WebStorm - WebStorm is a lightweight yet powerful IDE, perfectly equipped for complex client-side development and server-side development with Node.js.
+WebStorm’s smart code editor provides first-class support for JavaScript, Node.js, HTML and CSS, as well as their modern successors, AngularJS, ECMAScript 6, Compass, and much more.
+Smart Development Environment(intelligent code completion, on-the-fly error detection, powerful navigation, and automated yet safe refactorings), Cross-platform IDE(WebStorm works on Windows, Mac OS or Linux), Support for the Latest Technologies, The Complete Experience(ebugger, VCS, terminal and other tools right in the IDE)
+
+2. Zend Studio - It includes: Intelligent Code Editor, Robust Debugging capabilities, Eclipse Ecosystem, AngularJS, Ionic, Cordova, Magento and Doctrine support, Sample Mobile App, PHP 5.6 and older versions, Cloud Deployment
+API-Centric Development - Integration with Apigility makes building, documenting, testing and managing your APIs fast and easy.
+
+3. NetBeans - NetBeans is a software development platform written in Java. The NetBeans Platform allows applications to be developed from a set of modular software components called modules. The NetBeans IDE is primarily intended for development in Java, but also supports other languages, in particular PHP, C/C++ and HTML5.
+NetBeans is cross-platform and runs on Microsoft Windows, Mac OS X, Linux, Solaris and other platforms supporting a compatible JVM
+
+4. Microsoft Visual Studio - It is used to develop computer programs for Microsoft Windows, as well as web sites, web applications and web services. Visual Studio uses Microsoft software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, Windows Store and Microsoft Silverlight. It can produce both native code and managed code.
+Built-in languages include C, C++ and C++/CLI (via Visual C++), VB.NET (via Visual Basic .NET), C# (via Visual C#), and F# (as of Visual Studio 2010[6]). Support for other languages such as M, Python, and Ruby among others is available via language services installed separately. It also supports XML/XSLT, HTML/XHTML, JavaScript and CSS.
+
+5. Delphi: Delphi and Lazarus are two of the leading software tools for Pascal code development.
+Delphi is currently available on Microsoft Windows and produces code that runs on 32-bit and 64-bit Windows, Mac and on Apple and Android mobile devices.

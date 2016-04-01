@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem01-Point3D", "Problem01-Point3D\Problem01-Point3D.csproj", "{0FF7AD91-1393-4C6F-AFDA-99C1350BD458}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem02-DistanceCalc", "Problem02-DistanceCalc\Problem02-DistanceCalc.csproj", "{11364E0B-C97F-4498-B0C2-ACB29BB51B51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem03-Paths", "Problem03-Paths\Problem03-Paths.csproj", "{FAAAED9A-8E0F-46FD-A057-943ACF110063}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem04-NameSpaces", "Problem04-NameSpaces\Problem04-NameSpaces.csproj", "{D779B8D6-2B43-4AFB-BC5A-9948EDDE8738}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FF7AD91-1393-4C6F-AFDA-99C1350BD458}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FF7AD91-1393-4C6F-AFDA-99C1350BD458}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FF7AD91-1393-4C6F-AFDA-99C1350BD458}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FF7AD91-1393-4C6F-AFDA-99C1350BD458}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11364E0B-C97F-4498-B0C2-ACB29BB51B51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11364E0B-C97F-4498-B0C2-ACB29BB51B51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11364E0B-C97F-4498-B0C2-ACB29BB51B51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11364E0B-C97F-4498-B0C2-ACB29BB51B51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAAAED9A-8E0F-46FD-A057-943ACF110063}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAAAED9A-8E0F-46FD-A057-943ACF110063}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAAAED9A-8E0F-46FD-A057-943ACF110063}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAAAED9A-8E0F-46FD-A057-943ACF110063}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D779B8D6-2B43-4AFB-BC5A-9948EDDE8738}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D779B8D6-2B43-4AFB-BC5A-9948EDDE8738}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D779B8D6-2B43-4AFB-BC5A-9948EDDE8738}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D779B8D6-2B43-4AFB-BC5A-9948EDDE8738}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal

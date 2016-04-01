@@ -1,0 +1,24 @@
+•	Which .NET data types are value types? Which types are reference types?
+	1. Value types: Structs(Numeric types, bool, user defined structs) and Enumerations
+	bool, byte, char, decimal, double, enum, float, int, long, sbyte, short, struct, uint, ulong, ushort
+	2. Reference types: Class, Interface, Delegate, Dynamic, object, string
+
+•	How do value and reference types differ when assigned to a variable?
+	If we assign to 2 variables a value type each one is on its own, if we change someething in the first one it will not change in the 2nd one. In other words assigns a new copy of the value...
+	If we assign to 2 variables a refenece type object, both variables are pointing the same object, and if we change something via one of the variables it can be observed via the other variable. In other words assigns another pointer to the same object...
+
+•	How do value and reference types behave when passed as argument to a method?
+	For value types a copy of the value is passed as agrument. So if we change the value of the passed variable in the method it will not change the previous value of this variable because in the method is another copy of this value...
+	For reference types the pointer to the value is passed as agrument. The value of the variable in the method member and the value of the reference parameter will always be the same...
+
+•	Where in memory are value types allocated? Where are reference types allocated?
+	Local variable that references an object is stored on the stack, while the object itself is stored on the heap
+	Value-typed local variables and method parameters are stored in the stack.
+
+•	What is data mutation? Can value types be mutated? Can reference types be mutated?
+	Value types can be mutated.
+	Reference types cannot.
+
+•	What are the out and ref keywords used for? In what do they differ?
+	The ref keyword causes an argument to be passed by referance not by value.
+	The out keyword forces us to initialize the variable.

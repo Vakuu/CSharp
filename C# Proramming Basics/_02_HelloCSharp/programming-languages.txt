@@ -1,0 +1,18 @@
+1. JavaScript is the programming language that makes a website interactive.
+JavaScript is the only client-side scripting language.
+At first, developers didn't take JavaScript seriously, because it wasn't seen as a serious development language like Java, Ruby or Python, which are server-side languages. JavaScript was the frosting on the cake, only responsible for user experience. But the language continues to become more prolific, often recommended as a first language to learn for beginners. If you use JavaScript with a framework called Node.js, you can now actually use JavaScript as a server-side language.
+A language is only as good as the tools that go with it, and thanks to additions like Node.js, jQuery (a library), JSON (JavaScript Object Notation) and MongoDB, JavaScript has a bright future.
+
+similarities with C#
+both are imperative, object oriented, functional, reflective, standartized
+differences:
+JavaScript is not while c# is procedural, gneric and event driven.
+
+php PHP is a server-side scripting language designed for web development but also used as a general-purpose programming language. As of January 2013, PHP was installed on more than 240 million websites (39% of those sampled) and 2.1 million web servers.
+it now stands for PHP: Hypertext Preprocessor, which is a recursive backronym.
+
+3. Pascal is a historically influential imperative and procedural programming language, designed in 1968–1969 and published in 1970 by Niklaus Wirth as a small and efficient language intended to encourage good programming practices using structured programming and data structuring.
+A derivative known as Object Pascal designed for object-oriented programming was developed in 1985.
+
+2. Java is intendet to be for Application, business, client-side, general, mobile development, server-side, Web...
+Java is a general-purpose computer programming language that is concurrent, class-based, object-oriented,[12] and specifically designed to have as few implementation dependencies as possible. It is intended to let application developers "write once, run anywhere" (WORA),[13] meaning that compiled Java code can run on all platforms that support Java without the need for recompilation.[14] Java applications are typically compiled to bytecode that can run on any Java virtual machine (JVM) regardless of computer architecture.

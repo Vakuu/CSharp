@@ -1,0 +1,120 @@
+Point 1 coordinates: 45, -5, 23
+Point 2 coordinates: -25, 78, 115
+Point 3 coordinates: 2, 56, -8
+Distance between points: 270.14886746516
+
+Point 1 coordinates: -25, 78, 115
+Point 2 coordinates: 2, 56, -8
+Distance between points: 127.835832222425
+
+Point 1 coordinates: 45, -5, 23
+Point 2 coordinates: 2, 56, -8
+Distance between points: 80.8146026408594
+
+Distance between points: 0
+
+Point 1 coordinates: 45, -5, 23
+Point 2 coordinates: -25, 78, 115
+Point 3 coordinates: 2, 56, -8
+Distance between points: 270.14886746516
+
+Point 1 coordinates: -25, 78, 115
+Point 2 coordinates: 2, 56, -8
+Distance between points: 127.835832222425
+
+Point 1 coordinates: 45, -5, 23
+Point 2 coordinates: 2, 56, -8
+Distance between points: 80.8146026408594
+
+Distance between points: 0
+
+Point 1 coordinates: 45, -5, 23
+Point 2 coordinates: -25, 78, 115
+Point 3 coordinates: 2, 56, -8
+Distance between points: 270.14886746516
+
+Point 1 coordinates: -25, 78, 115
+Point 2 coordinates: 2, 56, -8
+Distance between points: 127.835832222425
+
+Point 1 coordinates: 45, -5, 23
+Point 2 coordinates: 2, 56, -8
+Distance between points: 80.8146026408594
+
+Distance between points: 0
+
+Point 1 coordinates: 45, -5, 23
+Point 2 coordinates: -25, 78, 115
+Point 3 coordinates: 2, 56, -8
+Distance between points: 270.14886746516
+
+Point 1 coordinates: -25, 78, 115
+Point 2 coordinates: 2, 56, -8
+Distance between points: 127.835832222425
+
+Point 1 coordinates: 45, -5, 23
+Point 2 coordinates: 2, 56, -8
+Distance between points: 80.8146026408594
+
+Distance between points: 0
+
+Point 1 coordinates: 45, -5, 23
+Point 2 coordinates: -25, 78, 115
+Point 3 coordinates: 2, 56, -8
+Distance between points: 270.14886746516
+
+Point 1 coordinates: -25, 78, 115
+Point 2 coordinates: 2, 56, -8
+Distance between points: 127.835832222425
+
+Point 1 coordinates: 45, -5, 23
+Point 2 coordinates: 2, 56, -8
+Distance between points: 80.8146026408594
+
+Distance between points: 0
+
+Point 1 coordinates: 45, -5, 23
+Point 2 coordinates: -25, 78, 115
+Point 3 coordinates: 2, 56, -8
+Distance between points: 270.14886746516
+
+Point 1 coordinates: -25, 78, 115
+Point 2 coordinates: 2, 56, -8
+Distance between points: 127.835832222425
+
+Point 1 coordinates: 45, -5, 23
+Point 2 coordinates: 2, 56, -8
+Distance between points: 80.8146026408594
+
+Distance between points: 0
+
+Point 1 coordinates: 45, -5, 23
+Point 2 coordinates: -25, 78, 115
+Point 3 coordinates: 2, 56, -8
+Distance between points: 270.14886746516
+
+Point 1 coordinates: -25, 78, 115
+Point 2 coordinates: 2, 56, -8
+Distance between points: 127.835832222425
+
+Point 1 coordinates: 45, -5, 23
+Point 2 coordinates: 2, 56, -8
+Distance between points: 80.8146026408594
+
+Distance between points: 0
+
+Point 1 coordinates: 45, -5, 23
+Point 2 coordinates: -25, 78, 115
+Point 3 coordinates: 2, 56, -8
+Distance between points: 270.14886746516
+
+Point 1 coordinates: -25, 78, 115
+Point 2 coordinates: 2, 56, -8
+Distance between points: 127.835832222425
+
+Point 1 coordinates: 45, -5, 23
+Point 2 coordinates: 2, 56, -8
+Distance between points: 80.8146026408594
+
+Distance between points: 0
+
